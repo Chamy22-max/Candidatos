@@ -139,7 +139,7 @@ public class Main {
 
                     System.out.println("Total campaña candidato 3: " + totalcampa3 + " promedio");
 
-                    System.out.println("Total campaña de los 3 candidatos: " + (totalcampa3+totalcampa2+totalcampa1)/3 + " promedio");
+                    System.out.println("Total campaña de los 3 candidatos:  " + (totalcampa3+totalcampa2+totalcampa1)/3 + " promedio");
             }
         }
     }
