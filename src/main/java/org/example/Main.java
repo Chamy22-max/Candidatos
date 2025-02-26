@@ -76,7 +76,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Opción no válida.");
+                    System.out.println("Opción no válida. ");
                     break;
             }
         }
